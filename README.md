@@ -1,5 +1,5 @@
 # NNUAL
-Neural Network with Unknown Activation and Link Function
+A Neural Network with Unknown Activation and Link Function
 ## Description
 We develop a supervised functional principal component method that extract the latent scores based on the relationship between functional covariates and response.
 ## Usage
